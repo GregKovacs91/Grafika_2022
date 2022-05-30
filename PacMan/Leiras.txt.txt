@@ -1,0 +1,5 @@
+Feladatom a régi Atari által fejlesztett Pac-Man nevű játék átdolgozása volt 3D-s környezetben.
+A programon belül megtalálható a kalsszikus pálya kialakkítása, a szellemek és a továbbjutáshoz szükséges felszedhető pöttyök is.
+Pac-Man-t irányítani a WSAD gombkombinációkkal lehet, lebegni a pályán pedig a Q és E gombok segítségével lehet.
+A szellemek mozgását az R gombbal lehetséges elindítani és a T gombbal megállítani.
+A segítsgég fül a H gomb megnyomásával válik elérhetővé.
